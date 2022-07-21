@@ -202,6 +202,8 @@ body{
   background: white;
   color: #5454D4;
   margin-top: 36px;
+  margin-left: 22px;
+  margin-right: 23px;
 }
 
 .item:hover .button__item{
